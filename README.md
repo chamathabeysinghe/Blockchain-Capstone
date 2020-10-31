@@ -33,7 +33,9 @@ truffle migrate --network rinkeby
 
 ## Addresses
 ERC721Mintable : 0x0F6C0cA6b3Ea6f7400e78f1bC82d63c128b0FC66
+
 SolnSquareVerifier : 0x01bd3611A62207cf5DD8743AbF49eB1D51d2AB14
+
 Verifier : 0x922D1Fd2Fb581c81cAB0f929c3708f61d0f8d4c7
 
 
